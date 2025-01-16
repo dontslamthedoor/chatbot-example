@@ -1,6 +1,6 @@
-# chatbot-skeleton
+# chatbot-interface-api
 <h3>
-    A simple chatbot skeleton for a chatbot that can be used in a web page.
+    A simple template for a chatbot that has 40,000,000,000 use cases.
 </h3>
 <hr>
 <h5>
@@ -19,5 +19,3 @@ touch .env && echo $OPENAI_API_KEY > .env
 </div>
 
 
-# chatbot-interface-api
-# chatbot-interface-api
