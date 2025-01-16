@@ -9,17 +9,17 @@ You must set up your environment variables (OPENAI_API_KEY) in order to safely s
     
 </h5>
 <br>
-<div>
+
 <code>
 export OPENAI_API_KEY <br>
 </code>
-</div>
 
-<div>
+
+
 <code>
 touch .env && echo $OPENAI_API_KEY > .env
 </code>
-</div>
+
 <br>
 <p>clone the repo, navigate to the project root and run:</p>
 
