@@ -4,7 +4,8 @@
 </h3>
 <hr>
 <h5>
-Some of the features of this
+You must set up your environment variables (OPENAI_API_KEY) in order to safely serve something like this.
+    
 </h5>
 
 <div>
