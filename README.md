@@ -7,7 +7,7 @@
 You must set up your environment variables (OPENAI_API_KEY) in order to safely serve something like this.
     
 </h5>
-
+<br>
 <div>
 <code>
 export OPENAI_API_KEY <br>
@@ -19,9 +19,9 @@ export OPENAI_API_KEY <br>
 touch .env && echo $OPENAI_API_KEY > .env
 </code>
 </div>
-<hr>
-<p>clone the repo, navigate to the project root and run:</p>
 <br>
+<p>clone the repo, navigate to the project root and run:</p>
+
 <code>
     node index.js
 </code>
