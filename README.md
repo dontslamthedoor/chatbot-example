@@ -27,7 +27,7 @@ touch .env && echo $OPENAI_API_KEY > .env
     node index.js
 </code>
 
-<h2>Navigate to localhost:3000</h2>
+<h5>Navigate to localhost:3000</h5>
 
 <br>
 
