@@ -4,7 +4,8 @@
 </h3>
 <hr>
 <h5>
-You must set up your environment variables (OPENAI_API_KEY) in order to safely serve something like this.
+You must set up your environment variables (OPENAI_API_KEY) in order to safely serve something
+    that uses your secrets to make API calls.
     
 </h5>
 <br>
