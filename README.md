@@ -17,5 +17,8 @@ export OPENAI_API_KEY <br>
 touch .env && echo $OPENAI_API_KEY > .env
 </code>
 </div>
-
+<p>clone the repo, navigate to the project root and run:</p>
+<code>
+    node index.js
+</code>
 
