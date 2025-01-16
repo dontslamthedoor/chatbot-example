@@ -12,12 +12,15 @@ Some of the features of this
 export OPENAI_API_KEY <br>
 </code>
 </div>
+
 <div>
 <code>
 touch .env && echo $OPENAI_API_KEY > .env
 </code>
 </div>
+<hr>
 <p>clone the repo, navigate to the project root and run:</p>
+<br>
 <code>
     node index.js
 </code>
