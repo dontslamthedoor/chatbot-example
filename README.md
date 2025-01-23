@@ -1,13 +1,15 @@
-# chatbot-interface-api
+# chatbot example
 <h3>
-    A simple template for a chatbot that has 40,000,000,000 use cases.
+    A simple interface for a chatbot.
 </h3>
 <hr>
-<h5>
-You must set up your environment variables (OPENAI_API_KEY) in order to safely serve something
-    that uses your secrets to make API calls.
-    
-</h5>
+<p>
+You must set up your environment variables (OPENAI_API_KEY)
+</p>
+
+
+<p>Write it to a .env file.</p>
+
 <br>
 
 <code>
@@ -21,14 +23,13 @@ touch .env && echo $OPENAI_API_KEY > .env
 </code>
 
 <br>
-<p>clone the repo, navigate to the project root and run:</p>
+<p>clone the repo, navigate to the project root and run the server. e.g. <code>node server.js</code></p>
 
-<code>
-    node index.js
-</code>
 
-<h5>Navigate to localhost:3000</h5>
-
+<h3>
+    Navigate to localhost:3000
+</h3>
+<h1>Have fun!</h1>
 <br>
 
 ![image](https://github.com/user-attachments/assets/75c758be-a760-490d-9a8b-567a77a65a0e)
